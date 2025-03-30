@@ -1,12 +1,12 @@
 {
-  "name": "PRINCE-MDXI",
+  "name": "POPKID",
   "version": "3.0.0",
-  "description": "A WhatsApp Bot Created By Prince",
+  "description": "A WhatsApp Bot Created By POP",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name PRINCE-MDX",
-    "stop": "pm2 stop PRINCE-MDX",
-    "restart": "pm2 restart PRINCE-MDX"
+    "start": "pm2 start index.js --deep-monitoring --attach --name YEST",
+    "stop": "pm2 stop YEST",
+    "restart": "pm2 restart YEST"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
